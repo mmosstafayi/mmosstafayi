@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mmosstafayi
 - 👀 I’m interested in Programming and Engineering
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 m.mosstafayi@gmail.com    --> +989359455012
 
 <!---
